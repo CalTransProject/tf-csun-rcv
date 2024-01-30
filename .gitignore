@@ -1,0 +1,21 @@
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+crash.log
+crash.*.log
+*.tfvars
+*.tfvars.json
+.terraformrc
+terraform.rc
+lambda/zip
+tfplan
+
+# JetBrains
+tf-rcv.iml
+
+# General
+.DS_Store
+.idea
+.zip
